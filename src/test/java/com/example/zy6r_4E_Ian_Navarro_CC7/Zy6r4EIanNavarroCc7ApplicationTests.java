@@ -1,0 +1,13 @@
+package com.example.zy6r_4E_Ian_Navarro_CC7;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Zy6r4EIanNavarroCc7ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
